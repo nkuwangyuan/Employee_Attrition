@@ -3,4 +3,4 @@
 
 Two interesting graphics
 
-Please click the link below for prelimitary results: [Figure1. Year at Company](https://nkuwangyuan.github.io/Employee_Attrition/Feature importance.png), [Figure2. Feature Importance](https://nkuwangyuan.github.io/Employee_Attrition/Year Distribution.png).
+Please click the link below for prelimitary results: [Figure1. Year at Company](https://nkuwangyuan.github.io/Employee_Attrition/Feature_Importance.png), [Figure2. Feature Importance](https://nkuwangyuan.github.io/Employee_Attrition/Year_At_Work.png).
