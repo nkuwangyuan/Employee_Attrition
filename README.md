@@ -7,6 +7,6 @@ This project aims to outline major factors that lead to employee attrition, and 
 
 In this project, I would first explore the causal effect between employee attrition and personal characteristics, job natures. Then, investgate feature importance by ensemble learning techniques like Bagging, Boosting and Random Forest. Lastly, compare their predictive accuracy in employee attrition.
 
-Please click the link below for preliminary results: [Figure1. Wage Rate](https://nkuwangyuan.github.io/Employee_Attrition/HourlyRate.png), [Figure2. Feature Importance](https://nkuwangyuan.github.io/Employee_Attrition/Feature_Importance.png) and [Figure3. Year at Company](https://nkuwangyuan.github.io/Employee_Attrition/Age_Year_Distribution.png).
+Please click the link below for preliminary results: [Figure1. Wage Rate](https://nkuwangyuan.github.io/Employee_Attrition/HourlyRate.png) and [Figure2. Feature Importance](https://nkuwangyuan.github.io/Employee_Attrition/Feature_Importance.png) and [Figure3. Year at Company](https://nkuwangyuan.github.io/Employee_Attrition/Age_Year_Distribution.png).
 
 Yuan Wang
