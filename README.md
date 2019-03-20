@@ -10,3 +10,4 @@ In this project, I would first explore the causal effect between employee attrit
 Please click the link for this project [Employee_Attrition](https://nkuwangyuan.github.io/Employee_Attrition/Employee_Attrition.html). Some preliminary results as follow: [Figure1. Wage Rate](https://nkuwangyuan.github.io/Employee_Attrition/HourlyRate.png) and [Figure2. Feature Importance](https://nkuwangyuan.github.io/Employee_Attrition/Feature_Importance.png) and [Figure3. Age and Year at Company](https://nkuwangyuan.github.io/Employee_Attrition/Age_Year_Distribution.png).
 
 Yuan Wang
+
